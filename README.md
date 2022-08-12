@@ -18,6 +18,13 @@ Once you have Tampermonkey installed, follow the images below to install the scr
 ### 3.
 ![Screenshot 2022-08-13 003341](https://user-images.githubusercontent.com/27077617/184456909-e104661c-1a90-4deb-9d0f-90c7570a7b31.png)
 
+## The extension in action
+(Note that this is a debug video and may not accurately represent real-world usage)
+
+
+https://user-images.githubusercontent.com/27077617/184457771-afeb96df-b642-40c5-a2cd-6af3acc4dc11.mp4
+
+
 
 ## This extension is unfinished
 There may be rough edges and instances where this extension many not work. If that this is the case, either [create an issue](https://github.com/ninjasmosa/-He-She-to-They-/issues) or [submit a pull request](https://github.com/ninjasmosa/-He-She-to-They-/pulls) with edited code.
